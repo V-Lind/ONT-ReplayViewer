@@ -1,5 +1,3 @@
-# This app is currently in development, but it is already fully functional!
-
 ## Description
 This is an Android camera / delayed video stream application meant primarily for capturing your own sports moments, and then watching it on the delayed stream and possibly saving the clip as an mp4 file.
 The app involves capturing video(possibly high resolution/high speed) with device camera, then processing this video in real time(very demanding performance-vise) and allowing the user to select a delay after which they want to be shown the recorded video. The user can then save the clip and watch it in an in-app mediaplayer before choosing to properly encode it as an mp4 file.
